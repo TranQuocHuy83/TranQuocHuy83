@@ -25,3 +25,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/19uNyhXJx3/)
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:tranquochuyqs3k@gmail.com)
 
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranQuocHuy83&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranQuocHuy83&theme=radical)
