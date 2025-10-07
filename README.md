@@ -4,8 +4,8 @@
 🚀 Dự án gần đây:  
 🌱 Hiện mình đang tìm hiểu về **Deep Learning và Explainable AI (XAI)**  
 💬 Liên hệ mình qua email: [**tranquochuyqs3k@gmail.com**](mailto:tranquochuyqs3k@gmail.com)  
-🌐 Website cá nhân: [**tranquochuy83.github.io**](https://tranquochuy83.github.io)  
-📘 Facebook: [**Trần Quốc Huy**](https://www.facebook.com/<<link-fb-của-Huy>>)
+🌐 Website cá nhân: [**tranquochuy83.github.io**](https:/<<đang cập nhật>>)  
+📘 Facebook: [**Trần Quốc Huy**](https://www.facebook.com/share/19uNyhXJx3/)
 
 ---
 
@@ -22,7 +22,6 @@
 ---
 
 ### 🔗 Kết nối với mình:
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/...)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/...)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/19uNyhXJx3/)
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:tranquochuyqs3k@gmail.com)
 
