@@ -1,5 +1,5 @@
 # 👋 Xin chào, mình là Trần Quốc Huy
-🎓 Mình hiện đang học **Công nghệ thông tin** tại **Trường Đại học Cần Thơ (CTU)**  
+🎓 Mình hiện đang học **Kỹ thuật phần mềm** tại **Trường Đại học Cần Thơ (CTU)**  
 💡 Mình yêu thích **AI, lập trình web, và phân tích mã nguồn**  
 🚀 Dự án gần đây:  
 🌱 Hiện mình đang tìm hiểu về **Deep Learning và Explainable AI (XAI)**  
